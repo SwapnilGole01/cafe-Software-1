@@ -1,0 +1,6 @@
+{
+  "name": "AS DEV STUDIO",
+  "description": "A full-stack restaurant management system with dynamic table QR codes, anonymous customer ordering, feedback collection, owner JWT/Firebase authentication, and an interactive manager dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
